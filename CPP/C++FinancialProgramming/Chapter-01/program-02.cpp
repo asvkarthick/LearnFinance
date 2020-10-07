@@ -1,3 +1,8 @@
+/* This program computes compound interest
+ * g++ program-02.cpp -o compoundinterest
+ * ./compoundinterest 0.08 10000 5
+ */
+
 #include <iostream>
 #include <cmath>
 
